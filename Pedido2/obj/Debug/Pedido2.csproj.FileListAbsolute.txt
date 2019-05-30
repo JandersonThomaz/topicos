@@ -1,0 +1,7 @@
+C:\Users\Janderson\Source\Repos\TesteTopicos\Pedido2\obj\Debug\Pedido2.csprojAssemblyReference.cache
+C:\Users\Janderson\Source\Repos\TesteTopicos\Pedido2\obj\Debug\Pedido2.csproj.CoreCompileInputs.cache
+C:\Users\Janderson\Source\Repos\TesteTopicos\Pedido2\bin\Debug\Pedido2.exe.config
+C:\Users\Janderson\Source\Repos\TesteTopicos\Pedido2\bin\Debug\Pedido2.exe
+C:\Users\Janderson\Source\Repos\TesteTopicos\Pedido2\bin\Debug\Pedido2.pdb
+C:\Users\Janderson\Source\Repos\TesteTopicos\Pedido2\obj\Debug\Pedido2.exe
+C:\Users\Janderson\Source\Repos\TesteTopicos\Pedido2\obj\Debug\Pedido2.pdb

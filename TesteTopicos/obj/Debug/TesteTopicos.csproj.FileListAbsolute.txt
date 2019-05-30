@@ -1,0 +1,7 @@
+C:\Users\Janderson\Source\Repos\TesteTopicos\TesteTopicos\bin\Debug\TesteTopicos.exe.config
+C:\Users\Janderson\Source\Repos\TesteTopicos\TesteTopicos\bin\Debug\TesteTopicos.exe
+C:\Users\Janderson\Source\Repos\TesteTopicos\TesteTopicos\bin\Debug\TesteTopicos.pdb
+C:\Users\Janderson\Source\Repos\TesteTopicos\TesteTopicos\obj\Debug\TesteTopicos.csprojAssemblyReference.cache
+C:\Users\Janderson\Source\Repos\TesteTopicos\TesteTopicos\obj\Debug\TesteTopicos.csproj.CoreCompileInputs.cache
+C:\Users\Janderson\Source\Repos\TesteTopicos\TesteTopicos\obj\Debug\TesteTopicos.exe
+C:\Users\Janderson\Source\Repos\TesteTopicos\TesteTopicos\obj\Debug\TesteTopicos.pdb

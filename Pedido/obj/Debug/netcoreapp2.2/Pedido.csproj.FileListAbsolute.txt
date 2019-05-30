@@ -1,0 +1,4 @@
+C:\Users\Janderson\Source\Repos\TesteTopicos\Pedido\obj\Debug\netcoreapp2.2\Pedido.csprojAssemblyReference.cache
+C:\Users\Janderson\Source\Repos\TesteTopicos\Pedido\obj\Debug\netcoreapp2.2\Pedido.csproj.CoreCompileInputs.cache
+C:\Users\Janderson\Source\Repos\TesteTopicos\Pedido\obj\Debug\netcoreapp2.2\Pedido.AssemblyInfoInputs.cache
+C:\Users\Janderson\Source\Repos\TesteTopicos\Pedido\obj\Debug\netcoreapp2.2\Pedido.AssemblyInfo.cs

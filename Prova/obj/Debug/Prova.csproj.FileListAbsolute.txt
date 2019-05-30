@@ -1,0 +1,7 @@
+C:\Users\Janderson\Source\Repos\TesteTopicos\Prova\bin\Debug\Prova.exe.config
+C:\Users\Janderson\Source\Repos\TesteTopicos\Prova\bin\Debug\Prova.exe
+C:\Users\Janderson\Source\Repos\TesteTopicos\Prova\bin\Debug\Prova.pdb
+C:\Users\Janderson\Source\Repos\TesteTopicos\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+C:\Users\Janderson\Source\Repos\TesteTopicos\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\Janderson\Source\Repos\TesteTopicos\Prova\obj\Debug\Prova.exe
+C:\Users\Janderson\Source\Repos\TesteTopicos\Prova\obj\Debug\Prova.pdb
